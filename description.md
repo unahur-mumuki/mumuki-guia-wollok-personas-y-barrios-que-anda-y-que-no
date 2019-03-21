@@ -1,7 +1,7 @@
 Con estos ejercicios, vas a poder "afinar la vista" sobre el código Wollok. 
 
-Se definen cinco objetos. Tres representan personas: `pedro`, `juan` y `zulma`. Dos son barrios: `villaTesei` y `bernal`. En cada ejercicio, se muestra una línea de código, y se pregunta si anda o no, si anda qué resultado da, y si no anda por qué. En todos se dan opciones, hay que elegir la correcta.  
-En caaaaada ejercicio repetimos la definición de los cinco objetos, para que la tengas a mano. Abajo va la pregunta, y las opciones. 
+En cada ejercicio, aparecen uno o varios objetos. Algunos van a representar personas, p.ej. `pedro`, `juan` y `zulma`., otros los barrios donde viven, como `villaTesei` y `bernal`. 
+Se muestra una línea de código, y se pregunta si anda o no, si anda qué resultado da, y si no anda por qué. En todos se dan opciones, hay que elegir la correcta.  
 <br/>
 
 :arrow_forward: &nbsp; &nbsp; **Atenti** &nbsp; &nbsp; :arrow_backward:
