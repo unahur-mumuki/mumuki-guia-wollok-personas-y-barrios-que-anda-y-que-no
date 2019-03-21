@@ -1,6 +1,6 @@
 ---
 tags: []
-layout: input_bottom
+layout: input_kids
 editor: single_choice
 type: problem
 extra_visible: false
@@ -12,14 +12,14 @@ choices:
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Funciona, el resultado es `32`
-  checked: true
+  checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Funciona, el resultado es `39`
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: No funciona, porque al objeto `juan`  no se le puede enviar el mensaje `edad()`
-  checked: false
+  value: No funciona, porque al objeto `juan`  no se le puede sumar `4`
+  checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: No funciona, a lo que devuelve `juan.edad()`  no se le puede sumar `4`
+  value: No funciona, no sabe qué es `juan`
   checked: false
-name: La edad de Juan, más 4
+name: Juan más 4
