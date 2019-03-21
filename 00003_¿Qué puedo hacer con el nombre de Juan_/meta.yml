@@ -25,4 +25,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Funcionan las dos, devuelven `"juan5"` y 9 respectivamente.
   checked: false
-name: "¿Qué se puede hacer con el nombre de Juan?"
+name: "¿Qué puedo hacer con el nombre de Juan?"
