@@ -1,0 +1,9 @@
+---
+name: Personas y barrios - qué anda y qué no
+locale: es
+type: learning
+beta: false
+language: wollok
+id_format: "%05d"
+order: []
+private: false
