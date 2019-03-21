@@ -23,6 +23,6 @@ choices:
   value: La primera no anda. La segunda sí anda, devuelve `"juan5"`
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Funcionan las dos, devuelven 33 y 9 respectivamente.
+  value: Funcionan las dos, devuelven `"juan5"` y 9 respectivamente.
   checked: false
 name: El nombre de Juan ¿más 4?
