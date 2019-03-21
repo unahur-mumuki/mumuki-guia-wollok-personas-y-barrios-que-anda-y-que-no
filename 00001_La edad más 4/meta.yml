@@ -1,6 +1,6 @@
 ---
 tags: []
-layout: input_right
+layout: input_bottom
 editor: single_choice
 type: problem
 extra_visible: false
@@ -22,4 +22,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: No funciona, a lo que devuelve `juan.edad()`  no se le puede sumar `4`
   checked: false
-name: La edad de Juan, más 4
+name: La edad más 4

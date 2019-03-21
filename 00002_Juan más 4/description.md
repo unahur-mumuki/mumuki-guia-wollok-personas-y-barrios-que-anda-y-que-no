@@ -1,4 +1,4 @@
-Una pequeña definición de Juan:
+La definición de Juan es la misma que antes.
 
 ```
 object juan {
@@ -8,4 +8,4 @@ object juan {
 }
 ```
 
-> A partir de esta definición, ¿qué pasa si evalúo `juan.edad() + 4`?
+> Lo que cambia es la pregunta, ¿qué pasa si evalúo `juan + 4`?
