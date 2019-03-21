@@ -9,10 +9,10 @@ manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Funciona, el resultado es ` "juan4"`
-  checked: true
+  checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Funciona, el resultado es `32`
-  checked: false
+  checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Funciona, el resultado es `39`
   checked: false
