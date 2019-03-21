@@ -16,4 +16,4 @@ object pedro {
 }
 ```
 
-> ¿Qué pasa si evalúo `juan.consejero().edad() + 4`? ¿Y con `juan.consejero() + 4`?
+> ¿Qué pasa si evalúo `juan.consejero().edad() + 4`? <br/> ¿Y con `juan.consejero() + 4`?
