@@ -10,4 +10,4 @@ object juan {
 
 Ahora vamos a trabajar con el nombre. 
 
-> Tenemos dos expresiones: `juan.nombre().edad() + 5` y `juan.nombre().size() + 5`. ¿Qué pasa cuando evaluamos cada una de ellas?
+> Tenemos dos expresiones: <br/> `juan.nombre().edad() + 5` y `juan.nombre().size() + 5`. <br/> ¿Qué pasa cuando evaluamos cada una de ellas?
