@@ -22,4 +22,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: No funciona, a lo que devuelve `juan.edad()`  no se le puede sumar `4`
   checked: false
-name: La edad más 4
+name: La edad de Juan, más 4
