@@ -1,0 +1,3 @@
+test "edadMas" {
+  assert.equals(91, resultado)
+}
