@@ -5,7 +5,6 @@ object juan {
   method nombre() { return "juan" }
   method edad() { return 28 }
   method consejero() { return pedro }
-  method esMasJovenQue(pers) { return self.edad() < pers.edad() }
 }
 
 object pedro {
