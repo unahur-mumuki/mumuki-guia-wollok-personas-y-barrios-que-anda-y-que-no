@@ -1,0 +1,37 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Da un error.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El resultado es `9`.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El resultado es `28`.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El resultado es `35`.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El resultado es `37`.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El resultado es `44`.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El resultado es `63`.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El resultado es `72`.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El resultado es `79`.
+  checked: false
+name: Sumando a la edad de Pedro
