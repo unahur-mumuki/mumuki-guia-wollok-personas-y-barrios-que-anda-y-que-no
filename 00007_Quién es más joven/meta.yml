@@ -1,0 +1,28 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Da error - da error - da error.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Da error - `true` - da error.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Da error - `true` - `true`.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Da error - `true` - `false`.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`false` - `true`  - `true`."
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`false` - `true`  - `false`."
+  checked: false
+name: Quién es más joven
