@@ -26,4 +26,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: La primera no anda, falla la suma. La segunda anda, devuelve `"pedro4"`.
   checked: false
-name: Presentando a Pedro
+name: Se presenta Pedro
