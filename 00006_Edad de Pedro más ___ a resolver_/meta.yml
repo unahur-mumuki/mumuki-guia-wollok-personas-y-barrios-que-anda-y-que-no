@@ -4,7 +4,6 @@ layout: input_right
 editor: code
 type: problem
 extra_visible: false
-language: text
 manual_evaluation: false
 choices: []
 name: Edad de Pedro más ... a resolver.
