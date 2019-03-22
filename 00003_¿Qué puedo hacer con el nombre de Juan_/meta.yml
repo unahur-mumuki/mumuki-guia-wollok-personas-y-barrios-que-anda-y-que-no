@@ -11,18 +11,18 @@ choices:
   value: No anda ninguna de las dos, no puede resolver `juan.nombre()`.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La primera sí anda, devuelve 33. La segunda no anda.
+  value: La primera sí anda, devuelve `33`. La segunda no anda.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: La primera sí anda, devuelve `"juan5"`. La segunda no anda.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La primera no anda. La segunda sí anda, devuelve 9.
+  value: La primera no anda. La segunda sí anda, devuelve `9`.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: La primera no anda. La segunda sí anda, devuelve `"juan5"`
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Funcionan las dos, devuelven `"juan5"` y 9 respectivamente.
+  value: Funcionan las dos, devuelven `"juan5"` y `9` respectivamente.
   checked: false
 name: "¿Qué puedo hacer con el nombre de Juan?"
