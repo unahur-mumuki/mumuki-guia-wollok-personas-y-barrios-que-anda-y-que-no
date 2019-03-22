@@ -1,0 +1,22 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Las dos dan como resultado `villaTesei`.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Las dos dan error.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La primera da error. La segunda da como resultado `villaTesei`.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La primera da como resultado `villaTesei`. La segunda da error.
+  checked: true
+name: Barrios
