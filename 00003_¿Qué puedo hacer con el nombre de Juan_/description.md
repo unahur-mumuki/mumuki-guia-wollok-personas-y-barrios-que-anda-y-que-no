@@ -4,7 +4,6 @@ Juan sigue siendo el mismo
 object juan {
   method nombre() { return "juan" }
   method edad() { return 28 }
-  method esMasJovenQue(pers) { return self.edad() < pers.edad() }
 }
 ```
 
