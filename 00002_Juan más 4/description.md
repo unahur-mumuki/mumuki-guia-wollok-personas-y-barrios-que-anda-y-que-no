@@ -4,7 +4,6 @@ La definición de Juan es la misma que antes.
 object juan {
   method nombre() { return "juan" }
   method edad() { return 28 }
-  method esMasJovenQue(pers) { return self.edad() < pers.edad() }
 }
 ```
 
