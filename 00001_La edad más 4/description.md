@@ -1,6 +1,6 @@
 Una pequeña definición de Juan:
 
-```
+```wollok
 object juan {
   method nombre() { return "juan" }
   method edad() { return 28 }
