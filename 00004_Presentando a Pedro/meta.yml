@@ -8,22 +8,22 @@ language: text
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Andan las dos, en ambos casos devuelve 39.
+  value: Andan las dos, en ambos casos devuelve `39`.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Andan las dos, la primera devuelve "pedro4", la segunda 32.
+  value: Andan las dos, la primera devuelve `"pedro4"`, la segunda `32`.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La primera no anda, falla la suma. La segunda anda, devuelve 32.
+  value: La primera no anda, falla la suma. La segunda anda, devuelve `32`.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La primera no anda, falla la suma. La segunda anda, devuelve 39.
+  value: La primera no anda, falla la suma. La segunda anda, devuelve `39`.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: La primera no anda, falla al pedirle la edad a `juan.consejero()`. La segunda
-    anda, devuelve "pedro4".
+    anda, devuelve `"pedro4"`.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La primera no anda, falla la suma. La segunda anda, devuelve "pedro4".
+  value: La primera no anda, falla la suma. La segunda anda, devuelve `"pedro4"`.
   checked: false
 name: Presentando a Pedro

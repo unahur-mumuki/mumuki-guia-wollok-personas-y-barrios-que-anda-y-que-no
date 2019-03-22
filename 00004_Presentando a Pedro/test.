@@ -1,2 +1,2 @@
 ---
-equal: La primera no anda, falla la suma. La segunda anda, devuelve 39.
+equal: La primera no anda, falla la suma. La segunda anda, devuelve `39`.
