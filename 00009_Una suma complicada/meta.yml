@@ -1,0 +1,31 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Da error al pedirle ` poblacion()` a `pedro.barrio()`.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Da error al pedirle ` size()` a `juan.nombre()`.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Da error en la suma.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Anda, el resultado es `90004` .
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Anda, el resultado es `90028` .
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Anda, el resultado es `110004` .
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Anda, el resultado es `110028` .
+  checked: false
+name: Una suma complicada
