@@ -9,4 +9,4 @@ const poblacionDelBarrio = // completar
 
 // resultado final de la expresión 
 // juan.consejero().barrio().poblacion() + 8
-resultadoFinal = // completar
+const resultadoFinal = // completar

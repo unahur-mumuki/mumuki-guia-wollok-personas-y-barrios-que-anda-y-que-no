@@ -24,12 +24,14 @@ object bernal {
 }
 ```
 
-Pensemos en esta expresión:
+
+Pensemos en esta expresión:  
 ```
 juan.consejero().barrio().poblacion() + 8
 ```
 
-Acá intervienen varios objetos:
+Acá intervienen varios objetos:  
+
 * `juan`
 * el resultado de `juan.consejero()`
 * el resultado de `juan.consejero().barrio()`
