@@ -1,0 +1,15 @@
+test "consejero" {
+  assert.equals(pedro, juanConsejero)
+}
+
+test "barrio" {
+  assert.equals(villaTesei, juanConsejeroBarrio)  
+}
+
+test "poblacion" {
+  assert.equals(90000, poblacionDelBarrio)
+}
+
+test "resultado final" {
+  assert.equals(90008, resultadoFinal)
+}
