@@ -30,13 +30,11 @@ Pensemos en esta expresión:
 juan.consejero().barrio().poblacion() + 8
 ```
 
-Acá intervienen varios objetos:  
+Para llegar al resultado final, Wollok evalúa varias expresiones parciales:
 
-* `juan`
-* el resultado de `juan.consejero()`
-* el resultado de `juan.consejero().barrio()`
-* el resultado de `juan.consejero().barrio().poblacion()`
-* el número `8`
-* el resultado final
+* primero `juan.consejero()`
+* después `juan.consejero().barrio()`
+* a continuación, `juan.consejero().barrio().poblacion()`
+* finalmente, la expresión completa para obtener el resultado final.
  
 > Te pedimos que indiques cuál es el resultado de cada expresión parcial, y el final.
