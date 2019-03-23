@@ -1,0 +1,7 @@
+test("min") {
+  assert.equals(32, resultadoMin)
+}
+
+test("max") {
+  assert.equals(110000, resultadoMax)
+}
