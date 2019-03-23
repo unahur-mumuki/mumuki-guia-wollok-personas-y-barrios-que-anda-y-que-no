@@ -1,7 +1,7 @@
-test("min") {
+test "min" {
   assert.equals(32, resultadoMin)
 }
 
-test("max") {
+test "max" {
   assert.equals(110000, resultadoMax)
 }
