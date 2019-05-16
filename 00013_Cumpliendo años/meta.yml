@@ -1,0 +1,28 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La primera da 29 y la segunda 35
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La primera da 29 y la segunda 64
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La primera da 28 y la segunda 63
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La primera no devuelve nada y la segunda 35
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La primera no devuelve nada y la segunda da error
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ambas dan error
+  checked: false
+name: Cumpliendo años
