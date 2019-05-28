@@ -26,4 +26,4 @@ object bernal {
 
 Las preguntas son sobre el método `esPoblador(pers)` del objeto `villaTesei`.
 
-> ¿Qué se obtiene al evaluar cada una de estas expresiones? <br/> 1. `villaTesei.esPoblador(juan)` <br> 2. `villaTesei.esPoblador(pedro)` <br> 3. `villaTesei.esPoblador(zulma)`.
+> ¿Qué se obtiene al evaluar cada una de estas expresiones? <br> 1. `villaTesei.esPoblador(juan)` <br> 2. `villaTesei.esPoblador(pedro)` <br> 3. `villaTesei.esPoblador(zulma)`.
