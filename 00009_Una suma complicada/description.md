@@ -21,4 +21,4 @@ object bernal {
 }
 ```
 
-> ¿Qué pasa al evaluar esta expresión? <br/> `pedro.barrio().poblacion() + juan.nombre().size()`
+> ¿Qué pasa al evaluar esta expresión? <br> `pedro.barrio().poblacion() + juan.nombre().size()`
