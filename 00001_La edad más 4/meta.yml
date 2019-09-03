@@ -8,7 +8,7 @@ language: text
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Funciona, el resultado es ` "juan4"`
+  value: Funciona, el resultado es ` "juan41"`
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Funciona, el resultado es `32`
